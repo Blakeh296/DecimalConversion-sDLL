@@ -1,0 +1,9 @@
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\bin\Debug\netstandard2.0\DecimalConversionsDLL.deps.json
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\bin\Debug\netstandard2.0\DecimalConversionsDLL.dll
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\bin\Debug\netstandard2.0\DecimalConversionsDLL.pdb
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.csprojAssemblyReference.cache
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.csproj.CoreCompileInputs.cache
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.AssemblyInfoInputs.cache
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.AssemblyInfo.cs
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.dll
+G:\C#\DecimalConversionsDLL\DecimalConversionsDLL\obj\Debug\netstandard2.0\DecimalConversionsDLL.pdb
