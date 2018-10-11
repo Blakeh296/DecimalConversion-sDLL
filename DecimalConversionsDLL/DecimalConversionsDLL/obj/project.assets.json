@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\DecimalConversionsDLL\\DecimalConversionsDLL\\DecimalConversionsDLL.csproj",
+      "projectUniqueName": "G:\\C#\\DecimalConversion-sDLL\\DecimalConversionsDLL\\DecimalConversionsDLL\\DecimalConversionsDLL.csproj",
       "projectName": "DecimalConversionsDLL",
-      "projectPath": "G:\\C#\\DecimalConversionsDLL\\DecimalConversionsDLL\\DecimalConversionsDLL.csproj",
+      "projectPath": "G:\\C#\\DecimalConversion-sDLL\\DecimalConversionsDLL\\DecimalConversionsDLL\\DecimalConversionsDLL.csproj",
       "packagesPath": "C:\\Users\\Cyberadmin\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\DecimalConversionsDLL\\DecimalConversionsDLL\\obj\\",
+      "outputPath": "G:\\C#\\DecimalConversion-sDLL\\DecimalConversionsDLL\\DecimalConversionsDLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
